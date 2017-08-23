@@ -1,0 +1,30 @@
+[25 hours ago] 66679c9  FBI-1124 <jonathan>
+[4 days ago] debdae7  FBI-1105 <alex_santos>
+[9 days ago] 8991ba1  FBI-1084 <alex_santos>
+[9 days ago] 9034808  FBI-1086: [MANTIS-21276] Enable the mouse 'right-click' during process <richardnoel>
+[10 days ago] 2bbfda1  FBI-1087: Enterprise Search>No carga los Dynaform y se presenta error por consola <richardnoel>
+[11 days ago] 289d2fa  FBI-1080: (Submit form) Nos despliega un error en consola y no ejecuta la función <alex_santos>
+[11 days ago] 4a24026  FBI-1072:401 Unauthorized  when you open a case with dynaform form Supervisor/Review List. <richardnoel>
+[2 weeks ago] 52099dd  FBI-1048 <jonathan>
+[2 weeks ago] af24863  FBI-[PMDynaform] Delete the folder dependentFields <richardnoel>
+[2 weeks ago] b672d90  FBI-1038 <jonathan>
+[3 weeks ago] 50e8f8c  FBI-999: PMDynaform Test Unit, Create the test unit for dependent fields <richardnoel>
+[3 weeks ago] 4bd940f  FBI-127: PMDynaform, seText Helper function is not working correctly <richardnoel>
+[3 weeks ago] 558252d  FBI-1011: [PMDynaform] Crear test de los helper functions, para el componente TEXT <alex_santos>
+[3 weeks ago] d8f1777  [PMDynaform] Crear test de los helper functions, para el componente TEXT <alex_santos>
+[3 weeks ago] 57de066  FBI-982: Multiple file upload, Have file names break into many lines <alex_santos>
+[4 weeks ago] 1653182  FBI-973: checkbox improper validation make dynaform to stuck loading <alex_santos>
+[4 weeks ago] ca5c06a  FBI-983: Add close button to Multiple file upload grid panel <Rodrigo Quelca}>
+[4 weeks ago] c4cfbac  FBI-975: (Form) Campos en grillas no muestran el simbolo de required <Rodrigo Quelca}>
+[4 weeks ago] 12e4610  test1 <richardnoel>
+[4 weeks ago] 964ae13  FBI-1020 <duhnnie>
+[4 weeks ago] e4c7322  FBI-1016 <duhnnie>
+[4 weeks ago] df711cb  FBI-965 <duhnnie>
+[4 weeks ago] 9c52598  FBI-984: textbox view mode dependent fields not working at all in 3.1 <richardnoel>
+[4 weeks ago] a2e4da8  more changes <Rodrigo Quelca}>
+[4 weeks ago] 97e41ae  FBI-977: [preview - running case] El control DateTime muestra un error por consola <Rodrigo Quelca}>
+[4 weeks ago] 8f4df12  FBI-950 <jonathan>
+[5 weeks ago] 9ea9d4f  FBI-862: resolved the helper function, enable and disable validation <richardnoel>
+[5 weeks ago] e0e3c4c  FBI-948 <jonathan>
+[5 weeks ago] 3cf090f  FBI-946 <jonathan>
+[5 weeks ago] 3180df1  FBI-886: [Suggest] Al usar la tecla tab al recorrer el los elementos del fomulario el suggest no continua la secuencia y vuelve a aparece la lista <alex_santos>

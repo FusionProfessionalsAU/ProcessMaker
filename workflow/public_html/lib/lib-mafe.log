@@ -1,0 +1,30 @@
+[8 days ago] 8119514  FBI-1097: En el stack 205(Enterprise) no se muestra el Multiple File cuando ingresamos a la opción FORM del case tracker. <richardnoel>
+[8 days ago] 5001cf0  FBI-1097: En el stack 205(Enterprise) no se muestra el Multiple File cuando ingresamos a la opción FORM del case tracker. <richardnoel>
+[11 days ago] bd77158  FBI-1074: Public Files. I can not use the public file grid paginator in Firexox <alex_santos>
+[12 days ago] 033b45e  FBI-1076: [MAFE-Permission] The permission field change the value, when was editing row <Rodrigo Quelca}>
+[2 weeks ago] d32a33a  FBI-1068: Validator false positive with intermediate event <Rodrigo Quelca}>
+[2 weeks ago] 480eb6d  FBI-1073: ProcessPermissions>No tiene ID el campo Group or User <alex_santos>
+[2 weeks ago] f429359  FBI-1069: [MAFE-RoutingRule] Remove console.log in the file routingRule <richardnoel>
+[2 weeks ago] b83f646  FBI-1044: (Start Event) Properties for Conditional and Signal are incorrect. <Rodrigo Quelca}>
+[2 weeks ago] 595008d  FBI-1049: [MAFE-variable window] the message Supported Controls: array is not correct <alex_santos>
+[2 weeks ago] ec9d5dd  FBI-1041: Cost&Units: Al hacer click en SAVE después de dejar vacíos estos elementos, no es posible editarlos <alex_santos>
+[2 weeks ago] b362c1d  FBI-1050: [MAFE - variable window] The message about support controls to boolean variable is false <Rodrigo Quelca}>
+[2 weeks ago] 5ceb6d2  FBI-1040: Community Task - Properties: no se puede guardar <root>
+[3 weeks ago] 143f6bc  FBI-966: ProcessMaker Validator must be available for all paid versions but community <alex_santos>
+[4 weeks ago] 117099c  FBI-973: checkbox improper validation make dynaform to stuck loading <alex_santos>
+[4 weeks ago] 617e181  R-1786 [21193] Conditions on Triggers removed after you move the trigger to a different place in the steps <Dheeyi William>
+[4 weeks ago] 57bc1e6  FBI-995: (Dynaform) El campo requerido es name y no id en las propiedades del dynaform <Rodrigo Quelca}>
+[4 weeks ago] 5b00215  FBI-980: Change Multiple file upload icon <alex_santos>
+[4 weeks ago] 4df6b59  FBI-1009 <duhnnie>
+[4 weeks ago] bab79ed  FBI-987 (Start Timer Event)El label es incorrecto en las propiedades del evento <Rodrigo Quelca}>
+[4 weeks ago] e707682  FBI-961:[Process Designer] Error guardar la fecha del datepicker de PMUI <richardnoel>
+[4 weeks ago] 5d704ae  HOR-1763 <Dheeyi William>
+[4 weeks ago] d21c0ce  FBI-976: Removes auxiliar form from DOM when it is not useful anymore <duhnnie>
+[4 weeks ago] 611a021  FBI-964: ProcessMaker validator, remove code column <Rodrigo Quelca}>
+[4 weeks ago] 5c3300b  FBI-967: CAN T SEE TIMEREVENT MENU <Rodrigo Quelca}>
+[4 weeks ago] bccb2c4  FBI-963: cant modify TIMER EVENT properties <Rodrigo Quelca}>
+[5 weeks ago] 9007885  FBI-936: [El diseñador de procesos] Error Cannot read property 'id' of null <alex_santos>
+[5 weeks ago] 8388052  FBI-944:variable types @? and @$ doesn't work on output documents <richardnoel>
+[5 weeks ago] 44fdc56  FBI-878: [BPMN Validator] Error en el popover al eliminar un shape <alex_santos>
+[5 weeks ago] cee07e9  FBI-834: connection handler  incorrect position on designer <Rodrigo Quelca}>
+[5 weeks ago] 1cd4450  FBI-822: Fix issue related with Designer's zoom button <duhnnie>

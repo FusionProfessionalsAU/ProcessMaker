@@ -1,0 +1,30 @@
+[12 days ago] f8386bc  FBI-1074 <alex_santos>
+[2 weeks ago] 6813490  FBI-1041: Cost&Units: Al hacer click en SAVE después de dejar vacíos estos elementos, no es posible editarlos <alex_santos>
+[4 weeks ago] 612abd3  FBI-1009 <duhnnie>
+[4 weeks ago] de682c1  FBI-961: [Process Designer] Error guardar la fecha del datepicker de PMUI <richardnoel>
+[5 weeks ago] 1d06ba1  FBI-898 <jonathan>
+[5 weeks ago] f8b8c64  FBI-847: Variable no permite editar el Name en IE 11 <Daniel>
+[6 weeks ago] 3951a24  FBI-801: Fixes <duhnnie>
+[6 weeks ago] 2eaddf4  FBI-789 <jonathan>
+[8 weeks ago] 5e3e5f0  FBI-393: Fix connection decorator positioning <Daniel>
+[10 weeks ago] c482452  FBI-670:(Custom Trigger) No se actualizan las listas de los triggers <richardnoel>
+[2 months ago] 01c03b5  FBI-570:Action takes too much time when trying to assign  steps in the task. <richardnoel>
+[2 months ago] 6a183ce  FBI-597: Modify the PMUI's Rakefile in order to get along with new ProcessMaker's gulp implementation <Daniel>
+[3 months ago] 96817b3  FBI-581: InputDocument> El ordenamiento de la grilla no esta siguiendo el estandar de las demas ventanas <alex_santos>
+[3 months ago] 85ec15c  FBI-533:Solo se muestran 5 variables en las propiedades de los eventos en 'message types' <richardnoel>
+[4 months ago] 00b74b4  FBI-183: Routing Screen Templateis misplaced in the Edit Process dialog box in Firefox in Debian 8.4 <alex_santos>
+[5 months ago] c3faea6  OM-624: Updates Rakefile for Ruby 2 <duhnnie>
+[5 months ago] 1be96de  OM-674: [Code Style] apply code style to pmUI libary <alex_santos>
+[5 months ago] 20b8cf2d  OM-639: Properties>Case Labels>Title. Error al apretar Enter <duhnnie>
+[5 months ago] 7c1adf3  OM-598: Mensaje de campo requerido, innecesario. <duhnnie>
+[5 months ago] ee8f77b  OM-576 <jonathan>
+[6 months ago] ad2904e  OM-546: [Process Designer] Al poner y sacar un elemento del pool las flechas que unen los elementos BPMN se ven mal <Rodrigo Quelca>
+[6 months ago] 883372f  OM-277: Process designer >> Look at the text anotation on top - the lines of the text anotation symbol cross over the words themselves <alex_santos>
+[6 months ago] 48071dd  OM-523: <alex_santos>
+[6 months ago] 110797f  OM-493:Redireccion diferente al refrescar la pagina del diseñador <richardnoel>
+[6 months ago] 8465420  OM-503: Variable>Uncaught TypeError: PMUI.activeCanvas.getCurrentSelection is not a function <Rodrigo Quelca>
+[6 months ago] 6e4a182  OM-407: Al mover un tarea con el curso fuera de un Pool, se desconfigura el diseño del proceso. <alex_santos>
+[6 months ago] 448cb53  OM-402:No se visulizan los elementos que se mueven a un pool <Rodrigo Quelca>
+[7 months ago] a2cef0b  OM-395: Adicionar variable global que hace referencia al hostName en las llamadas a endpoints en el proyecto MIchelAngelo <alex_santos>
+[7 months ago] 032ddfd  OM-265 El diseño cambia al abrir un proceso guardado <Rodrigo Quelca>
+[10 months ago] 833b6b2  PM-4499: TimerEvent > Al presionar el boton "Today" se desaparece el calendario <rodrigo quelca>
